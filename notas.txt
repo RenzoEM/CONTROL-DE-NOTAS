@@ -1,0 +1,2 @@
+77562389,Metodologia de Sistemas,15,El estudiante presenta un nivel academico moderado
+76048329,Construccion de Software,12,El estudiante aprob el curso con la nota minima
